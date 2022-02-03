@@ -1,5 +1,6 @@
 <h1>ScrappedData</h1>
 <p>Nothing amazing, just another programmer and pentest student.</p><br>
+<p>New account, I <b>lost</b> the other (OTP).</p><br>
 <p><b>CTF =</b> ❤️</p>
 <hr>
 <h1>Languages</h1>
