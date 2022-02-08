@@ -1,6 +1,6 @@
 <h1>ScrappedData</h1>
 <p>Nothing amazing, just another programmer and pentest student.</p><br>
-<p>New account, I <b>lost</b> the other (OTP).</p><br>
+<p>New account, I <b>lost</b> the other (OTP).</p>
 <hr>
 <h1>Languages</h1>
 - <a href='https://www.python.org/'>Python</a><br>
